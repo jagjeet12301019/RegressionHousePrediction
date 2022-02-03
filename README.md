@@ -1,4 +1,4 @@
-# Check
+# RegressionHousePrediction
 Multiple Machine Learning Models Tested for Regression task of House price prediction
 
 Dataset we are using is downloaded from the Kaggle competition on same task named as “Predict Future Sales” (Kaggle,). Machine Learning is a vast field with multiple subsets and is evolving day by day. We have many different types of robust prototype models available already with us which are developed from extensive research works along with well-defined methodologies which already have proved best in many cases. For example, which models are best to use for regression tasks and which one are suitable for Classification. 
